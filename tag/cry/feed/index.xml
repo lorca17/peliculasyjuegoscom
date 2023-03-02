@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cry &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/cry/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:10:45 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Cry &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Raven&#8217;s Cry un Juego que NO Puedes Perderte</title>
+		<link>https://peliculasyjuegos.com/descargar-ravens-cry/</link>
+					<comments>https://peliculasyjuegos.com/descargar-ravens-cry/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2016 20:29:50 +0000</pubDate>
+				<category><![CDATA[Los Juegos Mas Divertidos:]]></category>
+		<category><![CDATA[Cry]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Raven]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=66</guid>
+
+					<description><![CDATA[Espectacular juego de época, basado en el descubrimiento del nuevo mundo, lleno de corsarios y piratas. Espectacular trabajo en lo que a gráficos se refiere al igual que el cuidado de la trama, este juego te engancha desde el primer minuto. Desarrollado por Reality Pump y distribuido por TopWare Interactive, Raven´s Cry, es un videojuego [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-ravens-cry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

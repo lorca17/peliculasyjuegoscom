@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:10:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Uncategorized &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Las Mejores Películas de Guerra o Bélicas que se Estrenarán en el 2019</title>
+		<link>https://peliculasyjuegos.com/mejores-peliculas-guerra-belicas-2019/</link>
+					<comments>https://peliculasyjuegos.com/mejores-peliculas-guerra-belicas-2019/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Sun, 09 Dec 2018 10:49:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=997</guid>
+
+					<description><![CDATA[Después del éxito que obtuvo mi lista de los mejores juegos de guerra online he decidido seguir haciendo las mejores lista y recomendaros en este caso las  películas que no podréis perderos este año. El 2019 será un año de súper producciones, y no solo en géneros de ciencia ficción o aventuras, sino también en [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/mejores-peliculas-guerra-belicas-2019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Los Mejores Juegos de Guerra para Jugar Online del 2019</title>
+		<link>https://peliculasyjuegos.com/mejores-juegos-guerra-jugar-online/</link>
+					<comments>https://peliculasyjuegos.com/mejores-juegos-guerra-jugar-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Sun, 09 Dec 2018 10:42:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=994</guid>
+
+					<description><![CDATA[Cuando se habla de juegos bélicos y online, las opciones son muy amplias. Seguramente ya tú lo sabes porque eres aficionado a este género incluso en los videojuegos. En este artículo te mostraremos 4 de los juegos de guerra para jugar online, de manera que puedas elaborar un mejor criterio al momento de tomar tu [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/mejores-juegos-guerra-jugar-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

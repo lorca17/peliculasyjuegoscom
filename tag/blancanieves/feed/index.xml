@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blancanieves &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/blancanieves/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:09:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Blancanieves &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blancanieves y El Cazador [LA PELÍCULA]</title>
+		<link>https://peliculasyjuegos.com/descargar-blancanieves-cazador-la-pelicula/</link>
+					<comments>https://peliculasyjuegos.com/descargar-blancanieves-cazador-la-pelicula/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 19:13:47 +0000</pubDate>
+				<category><![CDATA[Las Películas Que No Puedes Dejas De Ver:]]></category>
+		<category><![CDATA[Blancanieves]]></category>
+		<category><![CDATA[Blancanieves y El Cazador]]></category>
+		<category><![CDATA[Cazador]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=480</guid>
+
+					<description><![CDATA[Conocida originalmente como The Hunstman Winter´s War, Blancanieves y la leyenda del cazador, es una película del 2016 estrenada mundialmente el 8 de abril. Dirigida por Cédric Nicolás Troyan, este film dura 112 minutos, y el mismo es protagonizado por Charlize Theron, Chris Hemsworth y Jessica Chastain entre otros. Producida por Universal Pictures, Roth Films [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-blancanieves-cazador-la-pelicula/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

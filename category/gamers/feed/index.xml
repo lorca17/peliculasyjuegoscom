@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gamers &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/category/gamers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 02 Dec 2018 10:41:50 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Gamers &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Los Gamers Más Famoso de Internet</title>
+		<link>https://peliculasyjuegos.com/los-gamers-mas-famoso-internet/</link>
+					<comments>https://peliculasyjuegos.com/los-gamers-mas-famoso-internet/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Sun, 15 Oct 2017 19:30:15 +0000</pubDate>
+				<category><![CDATA[Gamers]]></category>
+		<category><![CDATA[gamers]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=484</guid>
+
+					<description><![CDATA[En el mundo de la Web, los gamers son muy famoso por testear juegos de videos o incluso jugarlos durante muchas horas, a fin de probar los posibles errores o fallas que estos puedan tener. Aunque algunos de ellos solo ganas unos cuantos dólares, hay una lista excepcional de personajes que han sabido hacerse de [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/los-gamers-mas-famoso-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

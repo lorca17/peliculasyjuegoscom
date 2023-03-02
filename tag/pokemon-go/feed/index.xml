@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pokemon go &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/pokemon-go/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 02 Nov 2019 19:31:58 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>pokemon go &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hacks para Pokemon GO [TRUCOS]</title>
+		<link>https://peliculasyjuegos.com/hacks-pokemon-go-trucos/</link>
+					<comments>https://peliculasyjuegos.com/hacks-pokemon-go-trucos/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2017 20:20:44 +0000</pubDate>
+				<category><![CDATA[Hacks Para Juegos]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[pokemon go]]></category>
+		<category><![CDATA[trucos]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=468</guid>
+
+					<description><![CDATA[Un juego que viene haciendo furor en muchas partes del planeta es el famoso Pokémon GO, un juego que mezcla lo mejor de la serie con una increíble dosis de realidad virtual. Lanzado a principios del mes de julio del 2016, este juego ya es furor de descargas y un éxito en varios países del [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/hacks-pokemon-go-trucos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

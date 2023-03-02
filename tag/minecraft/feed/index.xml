@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Minecraft &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/minecraft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Jan 2019 22:27:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Minecraft &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trucos para Minecraft: Pocket Edition [HACK]</title>
+		<link>https://peliculasyjuegos.com/trucos-minecraft-pocket-edition-hack/</link>
+					<comments>https://peliculasyjuegos.com/trucos-minecraft-pocket-edition-hack/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2017 16:32:03 +0000</pubDate>
+				<category><![CDATA[Hacks Para Juegos]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[juegos]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<category><![CDATA[trucos]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=495</guid>
+
+					<description><![CDATA[Un juego muy famoso entre los gamers de todo el mundo, es el afamado Minecraft Pocket Edition, desarrollado para dispositivos móviles. Para todos los amantes de este apasionado juego de construcción, hoy hemos girado nuestra vista hacia Android, a fin de que todos los insaciables gamers de esta versión de Minecraft queden más que satisfechos [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/trucos-minecraft-pocket-edition-hack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

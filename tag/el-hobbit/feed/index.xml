@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>el hobbit &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/el-hobbit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 02 Dec 2018 10:47:24 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>el hobbit &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>El Hobbit: La Batalla de los Cinco Ejércitos [PELÍCULA]</title>
+		<link>https://peliculasyjuegos.com/descargar-el-hobbit-la-batalla-de-los-cinco-ejercitos/</link>
+					<comments>https://peliculasyjuegos.com/descargar-el-hobbit-la-batalla-de-los-cinco-ejercitos/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2016 18:22:10 +0000</pubDate>
+				<category><![CDATA[Las Películas Que No Puedes Dejas De Ver:]]></category>
+		<category><![CDATA[el hobbit]]></category>
+		<category><![CDATA[pelicula]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=16</guid>
+
+					<description><![CDATA[El Hobbit: La Batalla de los Cinco Ejércitos. Dirigida por el famoso cineasta Peter Jackson, la tercera saga de “El Hobbit” marca el final de una trilogía atrapante de principio a fin. Protagonizada por Richard Armitage, Martín Freeman y Evangeline Lilly, la batalla de los cinco ejércitos marca la precuela de la famosa trilogía conocida [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-el-hobbit-la-batalla-de-los-cinco-ejercitos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

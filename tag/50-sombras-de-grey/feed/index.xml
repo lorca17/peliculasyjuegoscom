@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>50 sombras de grey &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/50-sombras-de-grey/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:09:10 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>50 sombras de grey &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>50 Sombras de Grey [PELÍCULA]</title>
+		<link>https://peliculasyjuegos.com/50-sombras-de-grey-la-pelicula/</link>
+					<comments>https://peliculasyjuegos.com/50-sombras-de-grey-la-pelicula/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Wed, 01 Nov 2017 18:53:40 +0000</pubDate>
+				<category><![CDATA[Las Películas Que No Puedes Dejas De Ver:]]></category>
+		<category><![CDATA[50 sombras de grey]]></category>
+		<category><![CDATA[pelicula]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=25</guid>
+
+					<description><![CDATA[Esta película esta dirigida por Sam Taylor-Johnson y protagonizada por Jamie Dornan (Christian Grey), Dakota Johnson (Anastasia Steele) y Jennifer Ehle, este film está basado en el libro que lleva el mismo nombre. La primera parte de la trilogía narra la historia de Anastasia Steele, quién se dirige al edificio Greyhouse para entrevistar a Christian [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/50-sombras-de-grey-la-pelicula/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pc &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/pc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:10:51 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>pc &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Saints Row: Gat Out of Hell</title>
+		<link>https://peliculasyjuegos.com/descargar-saints-row-gat-out-of-hell/</link>
+					<comments>https://peliculasyjuegos.com/descargar-saints-row-gat-out-of-hell/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2016 20:36:50 +0000</pubDate>
+				<category><![CDATA[Los Juegos Mas Divertidos:]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Saints Row]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=69</guid>
+
+					<description><![CDATA[Un juego de acción que se sale de lo normal, ya hace algunos años que se han hecho un buen sitio en los amantes del genero. Esta nueva entrega no deja indiferente a nadie. Desarrollado por Volition INC, Saints Row es un videojuego que mezcla partes de aventura y acción, al mejor estilo sandobox. Publicado [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-saints-row-gat-out-of-hell/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Raven&#8217;s Cry un Juego que NO Puedes Perderte</title>
+		<link>https://peliculasyjuegos.com/descargar-ravens-cry/</link>
+					<comments>https://peliculasyjuegos.com/descargar-ravens-cry/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2016 20:29:50 +0000</pubDate>
+				<category><![CDATA[Los Juegos Mas Divertidos:]]></category>
+		<category><![CDATA[Cry]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[Raven]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=66</guid>
+
+					<description><![CDATA[Espectacular juego de época, basado en el descubrimiento del nuevo mundo, lleno de corsarios y piratas. Espectacular trabajo en lo que a gráficos se refiere al igual que el cuidado de la trama, este juego te engancha desde el primer minuto. Desarrollado por Reality Pump y distribuido por TopWare Interactive, Raven´s Cry, es un videojuego [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-ravens-cry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Witcher 3 Wild Hunt</title>
+		<link>https://peliculasyjuegos.com/descargar-the-witcher-3-wild-hunt/</link>
+					<comments>https://peliculasyjuegos.com/descargar-the-witcher-3-wild-hunt/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2016 20:22:06 +0000</pubDate>
+				<category><![CDATA[Los Juegos Mas Divertidos:]]></category>
+		<category><![CDATA[pc]]></category>
+		<category><![CDATA[The Witcher 3]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=63</guid>
+
+					<description><![CDATA[Una de las trilogías con más jugadores y seguidores. Videojuego del tipo del rol esta es su tercera entrega, cazador de bestias que nos enganchara desde el primer momento. Desarrollado por CD Projekt RED y distribuido por Warner Bros, CD Projekt RED, Interactive Entertainment, 1C Company, Spike Chunsot y Namco Bandai Games; The Witcher 3, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-the-witcher-3-wild-hunt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

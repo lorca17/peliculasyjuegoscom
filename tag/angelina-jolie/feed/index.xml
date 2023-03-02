@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Angelina Jolie &#8211; Peliculas y Juegos</title>
+	<atom:link href="https://peliculasyjuegos.com/tag/angelina-jolie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://peliculasyjuegos.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 04 Apr 2020 07:10:33 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>https://peliculasyjuegos.com/wp-content/uploads/2019/07/cropped-peliculas-juegos-com-1-32x32.png</url>
+	<title>Angelina Jolie &#8211; Peliculas y Juegos</title>
+	<link>https://peliculasyjuegos.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Invencible Unbroken [PELÍCULA]</title>
+		<link>https://peliculasyjuegos.com/descargar-invencible-unbroken-la-pelicula/</link>
+					<comments>https://peliculasyjuegos.com/descargar-invencible-unbroken-la-pelicula/#respond</comments>
+		
+		<dc:creator><![CDATA[Ofertas Play]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 20:20:48 +0000</pubDate>
+				<category><![CDATA[Las Películas Que No Puedes Dejas De Ver:]]></category>
+		<category><![CDATA[Angelina Jolie]]></category>
+		<category><![CDATA[pelicula]]></category>
+		<guid isPermaLink="false">https://peliculasyjuegos.com/?p=79</guid>
+
+					<description><![CDATA[Film Norteamericano dirigido por Angelina Jolie, y protagonizado por Jack O´Conell, Garrett Hedlund y Domhnall Gleeson. Este film biográfico y de género bélico dramático nos remonta a la primera mitad del siglo pasado, más precisamente a 1936, contando la verídica historia del joven atleta Louis Zamperini (interpretado por Jack O´Conell), quién participará en la edición [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://peliculasyjuegos.com/descargar-invencible-unbroken-la-pelicula/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
